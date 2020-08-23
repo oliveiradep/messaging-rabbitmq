@@ -6,7 +6,7 @@ Spring Boot
 Docker  
 RabbitMQ  
 
-**Exchange Types**
+**Exchange Types:**
 
 - Topic Exchange;
 - Direct Exchange;
